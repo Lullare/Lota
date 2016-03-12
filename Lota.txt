@@ -1,2 +1,3 @@
-Git is a distributed version control system. Git 是一个分布式版本控制系统.
-Git is free software distributed under the GPL. Git 是免费软件, 在 GPL 下分布.
+Git is a distributed version control system. → Git 是一个分布式版本控制系统.
+Git is free software distributed under the GPL. → Git 是免费软件, 在 GPL 下分布.
+Git has a mutable index called stage. → Git 有变化索引, 叫暂存区.
