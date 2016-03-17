@@ -3,3 +3,4 @@ Git is a free software distributed under the GPL. → Git 是 1 个免费软件,
 Git has a mutable index called stage. → Git 有变化索引, 叫暂存区.
 Git tracks changes of files. 看看 Git 如何跟踪文件的修改.
 Creating a new branch is quick and simple. 创建 1 个新分支 简单快 !
+小萝塔正在玩的时候, 突然要修复 1 个 BUG Σ(っ °Д °;)っ !
